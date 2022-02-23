@@ -1,4 +1,8 @@
-<h2 align="center">Hi! ✨ I'm @mayra-tellez, Front End Web Developer</h2>
+<h2 align="center">Hi ✨ I'm @mayra-tellez</h2>
+
+<p align="center">
+  <em>Feel free to browse around!</em><br>My repositories are a mixture of personal projects, technologies I'm learning, and past coursework.<br>I'm currently a part time Web Developer at Zollege and a Freelancer for small web applications.
+</p>
 
 <h4 align="center">Languages</h4>
 <div align="center">
