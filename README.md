@@ -1,18 +1,19 @@
 <h2 align="center">Hi ✨ I'm @mayra-tellez</h2>
 
 <p align="center">
-  <em>Feel free to browse around!</em><br>My repositories are a mix of personal projects, technologies I'm learning, and past coursework.<br>I'm currently a part time Web Developer at Zollege and a Freelancer for small web applications.
+  <em>Feel free to browse around!</em><br>My repositories are a mix of personal projects, technologies I'm learning, and past coursework.<br>I'm currently a part time Web Developer at Zollege and a Freelancer building small web applications.
 </p>
 
-<h4 align="center">Languages</h4>
+<p align="center"><strong>Languages</strong></p>
 <div align="center">
   <img  alt="HTML5"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img  alt="CSS3"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img  alt="JavaScript"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img  alt="NodeJS"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
+<br>
 
-<h4 align="center">Frameworks</h4>
+<p align="center"><strong>Frameworks</strong></p>
 <div align="center">
   <img  alt="React"  src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img  alt="Bootstrap"  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -20,8 +21,9 @@
   <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 <!--   <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> -->
 </div>
-  
-<h4 align="center">Databases</h4>
+<br>
+
+<p align="center"><strong>Databases</strong></p>
 <div align="center">
   <img  alt="MySQL"  src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=black"/>
 </div>
