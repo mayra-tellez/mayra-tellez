@@ -1,6 +1,6 @@
-<h2>Hi ✨ I'm @mayra-tellez</h2>
+<h2>Hi! I'm @mayra-tellez</h2>
 
-<p><strong>Languages</strong></p>
+<!-- <p><strong>Languages</strong></p> -->
 <div>
   <img  alt="HTML5"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img  alt="CSS3"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -9,7 +9,7 @@
 </div>
 <br>
 
-<p><strong>Frameworks</strong></p>
+<!-- <p><strong>Frameworks</strong></p> -->
 <div>
   <img  alt="React"  src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img  alt="NodeJS"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -25,7 +25,7 @@
 <a  href="https://www.linkedin.com/in/mayra-tellez/"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a  href="mailto:mayranicoletellez@gmail.com"><img  src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-👋 thanks for visiting!<br>
+👋 thanks for visiting<br>
 
 <!---
 mayra-tellez/mayra-tellez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
