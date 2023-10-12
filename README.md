@@ -1,11 +1,7 @@
-<h2 align="center">Hi ✨ I'm @mayra-tellez</h2>
+<h2>Hi ✨ I'm @mayra-tellez</h2>
 
-<p align="center">
-  <em>Feel free to browse around!</em><br>My repositories are a mix of personal projects, technologies I'm learning, and past coursework.<br>I'm currently a Web Developer at Zollege and a Freelancer building small web applications.
-</p>
-
-<p align="center"><strong>Languages</strong></p>
-<div align="center">
+<p><strong>Languages</strong></p>
+<div>
   <img  alt="HTML5"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img  alt="CSS3"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img  alt="JavaScript"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -13,13 +9,13 @@
 </div>
 <br>
 
-<p align="center"><strong>Frameworks</strong></p>
-<div align="center">
+<p><strong>Frameworks</strong></p>
+<div>
   <img  alt="React"  src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img  alt="Bootstrap"  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
   <img  alt="NodeJS"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+  <img  alt="Bootstrap"  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
 <!--   <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> -->
 </div>
 <br>
